@@ -1,0 +1,39 @@
+{
+  "name": "@boldreports/global",
+  "version": "2.1.14",
+  "description": "Bold Reports by Syncfusion controls for JavaScript with language packs for the localization of ReportViewer and ReportDesigner reporting widgets.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boldreports/global.git"
+  },
+  "keywords": [
+    "Bold Report Viewer",
+    "Bold Report Designer",
+    "Report Viewer",
+    "Report Designer",
+    "HTML5 ReportViewer",
+    "Bold Reports",
+    "Export Report",
+    "Report Editor",
+    "Report Builder",
+    "SSRS",
+    "JavaScript reporting controls",
+    "Reporting Tools",
+    "Syncfusion",
+    "Reports",
+    "RDL",
+    "RDLC",
+    "RDLC Viewer",
+    "RDL Viewer",
+    "globalize",
+    "localized texts",
+    "locale",
+    "localization"
+  ],
+  "author": "Syncfusion Inc",
+  "license": "SEE LICENSE IN README.md",
+  "bugs": {
+    "url": "https://github.com/bold-reports/global/issues"
+  },
+  "homepage": "https://boldreports.com"
+}
