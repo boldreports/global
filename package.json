@@ -1,6 +1,6 @@
 {
   "name": "@boldreports/global",
-  "version": "2.3.26",
+  "version": "2.3.39",
   "description": "Bold Reports by Syncfusion controls for JavaScript with language packs for the localization of ReportViewer and ReportDesigner reporting widgets.",
   "repository": {
     "type": "git",
@@ -33,7 +33,7 @@
   "author": "Syncfusion Inc",
   "license": "SEE LICENSE IN README.md",
   "bugs": {
-    "url": "https://github.com/bold-reports/global/issues"
+    "url": "https://github.com/boldreports/global/issues"
   },
   "homepage": "https://boldreports.com"
 }
