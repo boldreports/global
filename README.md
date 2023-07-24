@@ -1,6 +1,6 @@
 ## About Bold Reports Global
 
-Bold Reports for JavaScript with language packs for the localization of [ReportViewer](https://www.boldreports.com/embedded-reporting/javascript-report-viewer) and [ReportDesigner](https://www.boldreports.com/embedded-reporting/javascript-report-designer) reporting widgets.
+Bold Reports for JavaScript with language packs for the localization of `ReportViewer` and `ReportDesigner` reporting widgets.
 
 ## Currently supported localization languages
 
