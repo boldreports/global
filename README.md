@@ -20,8 +20,8 @@ In case of any questions regarding the use of `Bold Reports Global`, please [con
 
 ## Release Notes
 
-Refer the `Bold Reports JavaScript` Product Release Notes in [online Release Notes at Syncfusion](https://www.boldreports.com/release-history/).
+Refer the `Bold Reports JavaScript` Product Release Notes in [online Release Notes at Syncfusion](https://www.boldreports.com/release-history/?utm_source=npm&utm_medium=listing&utm_campaign=boldreports-global-npm).
 
 ## License Information
 
-For licensing information about `Bold Reports JavaScript`, Take a look at the Syncfusion License Agreements from [here](https://www.boldreports.com/terms-of-use).
+For licensing information about `Bold Reports JavaScript`, Take a look at the Syncfusion License Agreements from [here](https://www.boldreports.com/terms-of-use?utm_source=npm&utm_medium=listing&utm_campaign=boldreports-global-npm).
